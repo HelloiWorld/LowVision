@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C60207F7-887B-4F44-AC60-382A86B120A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LowVision</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9B88CC2897F1AB497172076697F7EA61F9F4589</key>
+		<string>https://git.oschina.net/naturalsoft/iOSLowVision02.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LowVision/LowVision.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9B88CC2897F1AB497172076697F7EA61F9F4589</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/naturalsoft/iOSLowVision02.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9B88CC2897F1AB497172076697F7EA61F9F4589</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9B88CC2897F1AB497172076697F7EA61F9F4589</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSLowVision02</string>
+		</dict>
+	</array>
+</dict>
+</plist>
